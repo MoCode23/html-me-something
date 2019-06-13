@@ -1,0 +1,32 @@
+header {
+    margin-top: 30px;
+    text-align: center;
+    width: 100%;
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.list {
+    background-color: gold;
+    padding-bottom: 50px;
+}
+
+#tag {
+    padding-top: 5px;
+    font-family: fantasy;
+}
+
+p {
+    font-family: fantasy;
+    padding-left: 80px;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 30px;
+}
+
+img {
+    background-color: aqua;
+    margin-left: 30px;
+}
